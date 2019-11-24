@@ -1,0 +1,31 @@
+#headerDiv{
+    color:white;
+    background-color:grey;
+    text-align: center;
+    
+}
+.row{
+    height:100%;
+
+}
+.col-4{
+    background-color:lightgrey;
+    height:100%;
+}
+html,body{
+    height:100%;
+}
+#bodyDiv{
+height:100%;
+margin-top:0;
+
+
+}
+h4{
+    text-align: center;
+}
+input{
+    width:85%;
+    text-align: center;
+}
+
